@@ -1,0 +1,12 @@
+{
+  "name": "utils-js",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Pieter Heyvaert (https://pieterheyvaert.com)",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "graphql-ld": "^1.0.1",
+    "graphql-ld-comunica": "^1.0.0"
+  }
+}
